@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.exe
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.deps.json
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.dll
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\bin\Debug\netcoreapp3.1\MaxSubArray.pdb
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.dll
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.pdb
+C:\Users\monisha.khapali\source\repos\MaxSubArray\MaxSubArray\obj\Debug\netcoreapp3.1\MaxSubArray.genruntimeconfig.cache
